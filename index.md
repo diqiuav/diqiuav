@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+<html>
+	<head>
+        <meta charset="UTF-8">
+        <title>index</title>
+        <style>
+            html,
+            body {
+                padding: 0;
+                margin: 0;
+                background: #272727;
+                font: 400 16px/1.7 "Microsoft JhengHei", sans-serif;
+            }
 
-You can use the [editor on GitHub](https://github.com/diqiuav/diqiuav/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+            div,ul,li,h1,p,h2{
+                padding: 0;
+                margin: 0;
+		font-size: 22px;
+            }
+            ul,li{
+                list-style: none;
+            }
+            .main{
+                text-align: center;
+            }
+            .content{
+                background: #fff;
+                padding: 20px;
+                display: inline-block;
+            }
+            .content-top{
+                font-size: 20px;
+            }
+            .content-top h2{
+                background: #ff5970;
+                color: #fff;
+                font-size: 20px;
+                padding: 10px 0;
+                font-weight: normal;
+            }
+            .content-top a{
+                display: block;
+                color: #ff5970;
+                font-style: normal;
+                display: block;
+                margin: 2px 0;
+		font-size: 20px;
+            }
+            .content-top li{
+                padding: 20px 0;
+                border-bottom: 1px solid #E2E0DE
+            }
+            .main h1{
+                color: #ff5970;
+                font-weight: normal;
+                padding: 40px 0;
+            }
+        </style>
+    </head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <body>
+        <div class="main">
+ <h1>大香蕉AV-最新发布地址</h1>
+            <div class="content">
+                <div class="content-top">
+                    <h2>请大家 Ctrl+D 收藏本页</h2>
+                    <ul>
+                        <li>
+                            大香蕉伊人最新地址
+                            <a href="https://jiav10.com" target="_blank">https://jiav10.com</a>
+                        </li>
+                        <li>
+                             大香蕉伊人备用地址
+                            <a href="https://jiav12.com" target="_blank">https://jiav12.com</a>
+                            <a href="https://jiav15.com" target="_blank">https://jiav15.com</a>
+			     <a href="https://jiav20.com" target="_blank">https://jiav20.com</a>
+			   <a href="https://jiav50.com" target="_blank">https://jiav50.com</a>
+			  <a href="https://jiav30.com" target="_blank">https://jiav30.com</a>
+                        </li>
+                       
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/diqiuav/diqiuav/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+                    </ul>
+                    <p>如果以上地址均无法打开，欢迎发送邮件告知： <br>
+                       jiav9000@gmail.com<br>
+		       jiav9001@gmail.com<br>
+		       jiav9002@gmail.com<br>
+                        会自动回复最新地址！</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
