@@ -66,23 +66,23 @@
                     <ul>
                         <li>
                             4438x成人网最新地址
-                            <a href="https://jiav10.com" target="_blank">https://jiav10.com</a>
+                            <a href="https://huav10.com" target="_blank">https://huav10.com</a>
                         </li>
                         <li>
                              4438x成人网备用地址
-                            <a href="https://jiav12.com" target="_blank">https://jiav12.com</a>
-                            <a href="https://jiav15.com" target="_blank">https://jiav15.com</a>
-			     <a href="https://jiav20.com" target="_blank">https://jiav20.com</a>
-			   <a href="https://jiav50.com" target="_blank">https://jiav50.com</a>
-			  <a href="https://jiav30.com" target="_blank">https://jiav30.com</a>
+                            <a href="https://huav11.com" target="_blank">https://huav11.com</a>
+                            <a href="https://huav12.com" target="_blank">https://huav12.com</a>
+			     <a href="https://huav22.com" target="_blank">https://huav22.com</a>
+			   <a href="https://huav33.com" target="_blank">https://huav33.com</a>
+			  <a href="https://huav44.com" target="_blank">https://huav44.com</a>
                         </li>
                        
 
                     </ul>
                     <p>如果以上地址均无法打开，欢迎发送邮件告知： <br>
-                       jiav9000@gmail.com<br>
-		       jiav9001@gmail.com<br>
-		       jiav9002@gmail.com<br>
+                       diqiuav@gmail.com<br>
+		       diqiuzy@gmail.com<br>
+		       diqiudy@gmail.com<br>
                         会自动回复最新地址！</p>
                 </div>
             </div>
