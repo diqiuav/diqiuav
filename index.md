@@ -66,7 +66,7 @@
                     <ul>
                         <li>
                             4438x成人网最新地址
-                            <a href="https://huav10.com" target="_blank">https://jiav40.com</a>
+                            <a href="https://jiav39.com" target="_blank">https://jiav40.com</a>
                         </li>
                         <li>
                              4438x成人网备用地址
