@@ -66,15 +66,15 @@
                     <ul>
                         <li>
                             4438x成人网最新地址
-                            <a href="https://jiav39.com" target="_blank">https://jiav40.com</a>
+                            <a href="https://jiav39.com" target="_blank">https://jiav39.com</a>
                         </li>
                         <li>
                              4438x成人网备用地址
-                            <a href="https://jiav18.com" target="_blank">https://jiav18.com</a>
+                            <a href="https://jiav25.com" target="_blank">https://jiav25.com</a>
                             <a href="https://jiav21.com" target="_blank">https://jiav21.com</a>
 			    <a href="https://jiav26.com" target="_blank">https://jiav26.com</a>
 			   <a href="https://jiav31.com" target="_blank">https://jiav31.com</a>
-			  <a href="https://jiav58.com" target="_blank">https://jiav58.com</a>
+			  <a href="https://jiav68.com" target="_blank">https://jiav68.com</a>
 			  <a href="https://jiav61.com" target="_blank">https://jiav61.com</a>
 			  <a href="https://jiav78.com" target="_blank">https://jiav78.com</a>
                         </li>
